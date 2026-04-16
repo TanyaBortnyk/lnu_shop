@@ -1,0 +1,21 @@
+{
+    "date": "2026-04-16",
+    "discount": 0.0,
+    "items": [
+        {
+            "category": "Electronics",
+            "id": 2,
+            "name": "Mouse",
+            "price": 700.0,
+            "quantity": 1
+        },
+        {
+            "category": "Food",
+            "id": 6,
+            "name": "Cheese",
+            "price": 140.0,
+            "quantity": 3
+        }
+    ],
+    "total": 1120.0
+}
